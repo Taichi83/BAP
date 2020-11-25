@@ -1,0 +1,25 @@
+numpy
+requests
+pandas
+tqdm
+pytz
+colorlover
+ipython
+jupyter
+jupyterlab
+markdown
+
+matplotlib
+seaborn
+plotly
+
+scikit-learn
+# pymc3
+scipy
+graphviz
+arviz
+watermark
+
+jax
+git+https://github.com/pymc-devs/pymc3.git@pymc3jax
+numpyro
